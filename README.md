@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source small projects
 - 📫 How to reach me mrunalineekhairnar@gmail.com
 - 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: 
+- ⚡ Fun fact: very first bug recorded involved an unlucky moth stuck in a computer.
 
 <!---
 mrunalinee1/mrunalinee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
