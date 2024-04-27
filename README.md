@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mrunalinee1
+- 🫡currently learning MERN
 - 👀 I’m interested in web development, willing to conribute in open source, Do reach me for any help!
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on open source small projects
